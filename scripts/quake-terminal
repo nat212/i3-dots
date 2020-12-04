@@ -1,0 +1,3 @@
+#!/usr/bin/fish
+
+tdrop -a -w 90% -x 5% -y 30 -m kitty
